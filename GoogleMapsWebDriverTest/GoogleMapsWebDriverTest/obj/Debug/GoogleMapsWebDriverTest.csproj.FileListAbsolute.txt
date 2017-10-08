@@ -23,3 +23,14 @@ C:\Users\adam.fahey\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriver
 C:\Users\adam.fahey\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\nunit.framework.xml
 C:\Users\adam.fahey\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\WebDriver.xml
 C:\Users\adam.fahey\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\WebDriver.Support.xml
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\GoogleMapsWebDriverTest.exe.config
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\GoogleMapsWebDriverTest.exe
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\GoogleMapsWebDriverTest.pdb
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\nunit.framework.dll
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\WebDriver.dll
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\WebDriver.Support.dll
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\nunit.framework.xml
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\WebDriver.xml
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\bin\Debug\WebDriver.Support.xml
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\obj\Debug\GoogleMapsWebDriverTest.exe
+C:\Users\afahe\Documents\GitHub\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\GoogleMapsWebDriverTest\obj\Debug\GoogleMapsWebDriverTest.pdb
