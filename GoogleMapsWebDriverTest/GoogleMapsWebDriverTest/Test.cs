@@ -36,6 +36,8 @@ namespace Alerts_and_Windows
             driver.FindElement(By.XPath("//*[@id=\"searchboxinput\"]")).Click();
             driver.FindElement(By.XPath("//*[@id=\"searchboxinput\"]")).SendKeys("Portland");
             driver.FindElement(By.Id("searchbox-searchbutton")).Click();
+            Assert.True(driver.Url.Contains("Portland"));
+            //driver.FindElement(By.Id("widget-zoom-in")).Click();
         }
     }
 }
